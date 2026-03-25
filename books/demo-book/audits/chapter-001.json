@@ -1,0 +1,23 @@
+{
+  "chapter": 1,
+  "findings": [
+    {
+      "severity": "warning",
+      "code": "UNKNOWN_CHARACTER",
+      "message": "检测到未登记角色名：林七",
+      "evidence": "林七"
+    },
+    {
+      "severity": "warning",
+      "code": "AI_STYLE_SUMMARY",
+      "message": "总结式表达偏多：总而言之 出现 2 次",
+      "evidence": "总而言之"
+    },
+    {
+      "severity": "warning",
+      "code": "UNKNOWN_RESOURCE",
+      "message": "文本中消耗了未登记资源：灵石",
+      "evidence": "灵石"
+    }
+  ]
+}
