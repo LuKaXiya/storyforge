@@ -1,0 +1,38 @@
+{
+  "chapter_number": 1,
+  "goal": "主角在地铁里第一次感知灵气复苏",
+  "conflict": "是否当场出手救人并暴露自己",
+  "beats": [
+    {
+      "title": "开场扰动",
+      "purpose": "让本章目标尽快出现，避免空转铺垫",
+      "tension": "主角面临核心问题：主角在地铁里第一次感知灵气复苏"
+    },
+    {
+      "title": "冲突升级",
+      "purpose": "把外部障碍和内部犹豫同时抬高",
+      "tension": "是否当场出手救人并暴露自己"
+    },
+    {
+      "title": "决策与代价",
+      "purpose": "让角色做出不可逆选择，并留下后果",
+      "tension": "选择之后必须付出某种代价或埋下后患"
+    }
+  ],
+  "state_updates": [
+    {
+      "type": "world_event",
+      "description": "主角在地铁里第一次感知灵气复苏"
+    },
+    {
+      "type": "character_shift",
+      "description": "是否当场出手救人并暴露自己"
+    }
+  ],
+  "hooks_to_open": [
+    "本章新悬念待补充"
+  ],
+  "hooks_to_progress": [
+    "若已有旧伏笔，本章至少推进其中一条"
+  ]
+}
