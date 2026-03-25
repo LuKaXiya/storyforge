@@ -1,0 +1,11 @@
+{
+  "resources": [
+    {
+      "id": "cash",
+      "name": "现金",
+      "quantity": 0,
+      "unit": "元",
+      "owner": "protagonist"
+    }
+  ]
+}
