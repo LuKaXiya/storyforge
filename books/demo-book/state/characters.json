@@ -1,0 +1,14 @@
+{
+  "characters": [
+    {
+      "id": "protagonist",
+      "name": "主角",
+      "role": "protagonist",
+      "location": "unknown",
+      "goals": [],
+      "knowledge": [],
+      "inventory": [],
+      "status": "active"
+    }
+  ]
+}
